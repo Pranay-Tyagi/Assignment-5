@@ -7,7 +7,7 @@ document.querySelector('button').addEventListener('click', function () {
   area = Math.round(area)
   circumference = Math.round(circumference)
   area = area / 10
-  circumference = circumference / 10 
+  circumference = circumference / 10
   alert('Area:  ' + area)
   alert('Circumference:  ' + circumference)
 })
